@@ -1,0 +1,19 @@
+h1, h2 {
+  color: blueviolet;
+}
+
+.box p.done {
+  color: firebrick;
+}
+
+ul.list li {
+  color: blue;
+}
+
+ul.list li.done {
+  color: seagreen;
+}
+
+.note.done {
+  font-size: 0.5rem;
+}
